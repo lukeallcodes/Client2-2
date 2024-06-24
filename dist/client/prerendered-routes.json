@@ -1,0 +1,9 @@
+{
+  "routes": [
+    "/",
+    "/admin",
+    "/employee",
+    "/login",
+    "/manager"
+  ]
+}
